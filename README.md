@@ -4,4 +4,4 @@ Features: Students, Coordinators & company profiles, online vacancy generation, 
 
 Team: 7 Junior and Senior Year students of MNIT (worked for 3 months).
 
-University Team: Professor Rohit Goyal, Amit Solanki, Sanjay Rajpal (Programmer).
+University Team: Professor Rohit Goyal, Ashok Solanki, Sanjay Rajpal (Programmer).
